@@ -1,0 +1,52 @@
+.caja1{
+	width:20em;
+	height:20em;
+	background-color: red;
+	position:absolute;
+	top:;
+	left:;
+}
+
+.caja2{
+	width:10em;
+	height:10em;
+	background-color:purple;
+	position:absolute;
+	top:5.5em;
+	left:5.5em;
+}
+
+.caja3{
+	width:5em;
+	height:5em;
+	background-color:yellow;
+	position:absolute;
+	top:5.5em;
+	left:5.5em;
+	margin-bottom: 1em;
+}
+
+.caja4{
+	width:20em;
+	height:20em;
+	background-color:blue;
+	position:absolute;
+	top:21em;
+}
+
+.caja5{
+	width:5em;
+	height:5em;
+	background-color:black;
+	position:absolute;
+	top:21em;
+}
+
+.caja6{
+	width:10em;
+	height:10em;
+	background-color:green;
+	position:absolute;
+	top:26em;
+	left:5.5em;
+}
